@@ -1,4 +1,4 @@
-# ML-ET-Estimator
+# ML-ETo-Estimator
 ETo model analysis for outdoor irrigation to support water and vegetation management in semi-arid urban households.
 Includes the evaluation of the following data driven algorithms: Linear Regression, XGBRegressor, MLP, GRU, LSTM, Conv-LSTM to estimate reference evapotranspiration (ETo) from weather station data. 
 
