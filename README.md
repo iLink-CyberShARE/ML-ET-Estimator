@@ -13,8 +13,8 @@ The application code is made available as a python notebook that can be executed
 
 1. On a browser navigate to [https://colab.research.google.com/](https://colab.research.google.com/)
 2. Open the notebook file (.ipynb).
-3. Under the runtime files folder import the input data file provided in excel format.
-4. To execute the complete notebook go to Runtime->Run all, otherwise each code section can be executd individually.
+3. Before exetuing, import the input data file provided in excel format to the runtime files container.
+4. To execute the notebook go to Runtime->Run all. Each code section can also be executd individually.
 
 # Participating Institutions
 The University of Texas at El Paso (UTEP)  
