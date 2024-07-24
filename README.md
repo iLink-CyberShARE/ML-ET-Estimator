@@ -4,7 +4,7 @@ Includes the evaluation of the following data driven algorithms: Linear Regressi
 
 # Data Sources
 Chihuahua Central Board of Water and Sanitation (JCAS)    
-Data derived from thirty-tree Davis Vantage Pro II model ground weather stations publicly available online covering regions in the state of Chihuahuahua, Mexico. 
+Data derived from thirty-tree Davis Vantage Pro II model ground weather stations publicly available online covering regions in the state of Chihuahuahua, Mexico.  
 [http://proyectojcas.uacj.mx/clima/public/maps/google/estacion](http://proyectojcas.uacj.mx/clima/public/maps/google/estacion)
 
 # How to Run
