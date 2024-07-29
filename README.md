@@ -29,12 +29,7 @@ Juan Manuel Rodriguez Gaeta - UACH
 Carmen Julia Navarro - UACH   
 
 # Acknowledgements  
-TBD
-
-# How to cite  
-If you create products such as publications using SWIM products, it would be great if you add the  following acknowledgement:   
-
-"This work used the Sustainable Water for Integrated Modeling (SWIM) 2.0, which was supported by the National Science Foundation under Grant No. 1835897."   
+This work was supported by Microsoft (UTEP team). This work used publicly available data provided by La Junta Central de Agua y Saneamiento (JCAS) of the state of Chihuahua, Mexico. 
 
 # License
 This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LICENSE) and uses third party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.md](./LICENSE-3RD-PARTY.md)).
