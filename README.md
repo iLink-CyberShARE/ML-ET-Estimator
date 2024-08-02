@@ -15,7 +15,7 @@ Data covers several regions in the state of Chihuahuahua, Mexico.
 + Curated Dataset - All-state8.xlsx   
 + ETo Regression and ML Models, Data statistics and SHAP analysis - ETo LR-XGB-SVM-RF-MLP and SHAP Analysis.ipynb   
 + CovLSTM model and evaluation - ETo ConvLSTM Analysis.ipynb   
-+ GRY and LSTM models and evaluation - Eto GRU-LSTM Analysis.ipynb   
++ GRU and LSTM models and evaluation - Eto GRU-LSTM Analysis.ipynb   
 
 # How to Run
 
