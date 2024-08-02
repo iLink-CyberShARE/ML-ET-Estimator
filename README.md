@@ -3,17 +3,19 @@ Reference Evapotranspiration (ETo) models' analysis for outdoor irrigation to su
 Includes the evaluation of the following data driven algorithms: Linear Regression, XGBRegressor, Support Vector Regressor, Random Forest Regressor,  MLP, GRU, LSTM and Conv-LSTM to estimate reference evapotranspiration (ETo) from weather station data. 
 Includes computations with physical ETo models: Penman-Monteith, Priestley-Taylor and Hargraves
 
-# Data Sources
+# Data Source
 Chihuahua Central Board of Water and Sanitation (JCAS)    
 Data derived from 33 Davis Vantage Pro II model ground weather stations publicly available online. 
 Data covers several regions in the state of Chihuahuahua, Mexico.   
 [http://proyectojcas.uacj.mx/clima/public/maps/google/estacion](http://proyectojcas.uacj.mx/clima/public/maps/google/estacion)
 
-# Content   
+# Data Selection
+
+# Repository Content   
 + Curated Dataset - All-state8.xlsx   
-+ ETo Regression and MLP Models, Data statistics and SHAP analysis - ETo LR-XGB-SVM-RF-MLP and SHAP Analysis.ipynb   
++ ETo Regression and ML Models, Data statistics and SHAP analysis - ETo LR-XGB-SVM-RF-MLP and SHAP Analysis.ipynb   
 + CovLSTM model and evaluation - ETo ConvLSTM Analysis.ipynb   
-+ ANN models and evaluation - Eto XGB-GRU-LSTM Analysis.ipynb   
++ GRY and LSTM models and evaluation - Eto GRU-LSTM Analysis.ipynb   
 
 # How to Run
 
