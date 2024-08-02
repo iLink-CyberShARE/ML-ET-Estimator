@@ -1,6 +1,7 @@
 # ML-ETo-Estimator
-ETo model analysis for outdoor irrigation to support water and vegetation management in semi-arid urban households.
-Includes the evaluation of the following data driven algorithms: Linear Regression, XGBRegressor, MLP, GRU, LSTM, Conv-LSTM to estimate reference evapotranspiration (ETo) from weather station data. 
+Reference Evapotranspiration (ETo) models' analysis for outdoor irrigation to support water and vegetation management in semi-arid urban households.
+Includes the evaluation of the following data driven algorithms: Linear Regression, XGBRegressor, Support Vector Regressor, Random Forest Regressor,  MLP, GRU, LSTM and Conv-LSTM to estimate reference evapotranspiration (ETo) from weather station data. 
+Includes computations with physical ETo models: Penman-Monteith, Priestley-Taylor and Hargraves
 
 # Data Sources
 Chihuahua Central Board of Water and Sanitation (JCAS)    
@@ -8,14 +9,20 @@ Data derived from 33 Davis Vantage Pro II model ground weather stations publicly
 Data covers several regions in the state of Chihuahuahua, Mexico.   
 [http://proyectojcas.uacj.mx/clima/public/maps/google/estacion](http://proyectojcas.uacj.mx/clima/public/maps/google/estacion)
 
+# Content   
++ Curated Dataset - All-state8.xlsx   
++ ETo Regression and MLP Models, Data statistics and SHAP analysis - ETo LR-XGB-SVM-RF-MLP and SHAP Analysis.ipynb   
++ CovLSTM model and evaluation - ETo ConvLSTM Analysis.ipynb   
++ ANN models and evaluation - Eto XGB-GRU-LSTM Analysis.ipynb   
+
 # How to Run
 
-The application code is made available as a python notebook that can be executed on Google Colab.
+The application code is made available as a python notebook that can be executed online with Google Colab.
 
 1. On a browser navigate to [https://colab.research.google.com/](https://colab.research.google.com/)
-2. Open the notebook file (.ipynb).
-3. Before executing, import the input data file provided in excel format to the runtime files container.
-4. To execute the notebook go to Runtime->Run all. Each code section can also be executd individually.
+2. Open the target notebook file (.ipynb).
+3. Before executing model notebooks, import the input data file (All-state8.xlsx) provided in excel format to the runtime files container.
+4. To execute the notebook go to Runtime->Run all. Each code section can also be executed individually.
 
 # Participating Institutions
 The University of Texas at El Paso (UTEP)  
