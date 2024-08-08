@@ -10,7 +10,7 @@ Data covers several regions in the state of Chihuahuahua, Mexico.
 [http://proyectojcas.uacj.mx/clima/public/maps/google/estacion](http://proyectojcas.uacj.mx/clima/public/maps/google/estacion)
 
 # Links to Google Colab Notebooks  
-+ Curated Dataset - All-state8.xlsx   
++ Data consolidation and Curation  
 + ETo Regression and ML Models, Data statistics and SHAP analysis - ETo LR-XGB-SVM-RF-MLP and SHAP Analysis.ipynb   
 + CovLSTM model and evaluation - ETo ConvLSTM Analysis.ipynb   
 + GRU and LSTM models and evaluation - Eto GRU-LSTM Analysis.ipynb   
