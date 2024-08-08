@@ -9,7 +9,7 @@ Data derived from 33 Davis Vantage Pro II model ground weather stations publicly
 Data covers several regions in the state of Chihuahuahua, Mexico.   
 [http://proyectojcas.uacj.mx/clima/public/maps/google/estacion](http://proyectojcas.uacj.mx/clima/public/maps/google/estacion)
 
-# Repository Content   
+# Links to Google Colab Notebooks  
 + Curated Dataset - All-state8.xlsx   
 + ETo Regression and ML Models, Data statistics and SHAP analysis - ETo LR-XGB-SVM-RF-MLP and SHAP Analysis.ipynb   
 + CovLSTM model and evaluation - ETo ConvLSTM Analysis.ipynb   
