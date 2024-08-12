@@ -17,11 +17,13 @@ Data covers several regions in the state of Chihuahuahua, Mexico.
 
 # How to Run
 
-The application code is made available as a python notebook that can be executed online with Google Colab.
+The application code is made available as a python notebook that can be executed online with Google Colab.    
+Note that shared notebooks have been pre-executed, runtime outputs are shown accordingly.   
 
-1. On a browser navigate to [https://colab.research.google.com/](https://colab.research.google.com/)
-2. Open the target notebook file (.ipynb).
-3. Before executing model notebooks, import the input data file (All-state8.xlsx) provided in excel format to the runtime files container.
+To run from scratch:   
+1. Open link to the target notebook.
+2. Generate a dataset following the instructions on Data consolidation and Curation notebook.
+3. To run model noebooks: import the input dataset file (All-state8.xlsx) generated from the previous notebook.
 4. To execute the notebook go to Runtime->Run all. Each code section can also be executed individually.
 
 # Participating Institutions
