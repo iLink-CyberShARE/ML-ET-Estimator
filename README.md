@@ -44,7 +44,7 @@ This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LIC
 ## Citation  
 Towards Estimating Water Consumption in Semi-Arid Urban Landscaping: A Data-Driven and Machine Learning Approach (In Press)   
 Damian Gallegos Espinoza, Luis A Garnica Chavira, Natalia Villanueva-Rosales, Juan Manuel Rodríguez Gaeta and Carmen Julia Navarro Gómez    
-23rd Mexican International Conference on Artificial Intelligence, INAOE, Tonantzintla, Puebla, México, October 21st - 25th, 2024   
+23rd Mexican International Conference on Artificial Intelligence, INAOE, Tonantzintla, Puebla, México, October 21st - 25th, 2024 
 
-## Copyright
-The final publication of this work is available at Springer via (pending DOI)   
+First published in [Volumee page number, year] by Springer Nature”. - Pending Publication
+
