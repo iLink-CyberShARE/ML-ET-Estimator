@@ -23,7 +23,7 @@ Note that shared notebooks have been pre-executed, runtime outputs are shown acc
 To run from scratch:   
 1. Open link to the target notebook.
 2. Generate a dataset following the instructions on Data consolidation and Curation notebook.
-3. To run model noebooks: import the input dataset file (All-state8.xlsx) generated from the previous notebook.
+3. To run model notebooks: import the input dataset file (All-state8.xlsx) generated from the previous notebook.
 4. To execute the notebook go to Runtime->Run all. Each code section can also be executed individually.
 
 # Participating Institutions
