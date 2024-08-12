@@ -10,10 +10,10 @@ Data covers several regions in the state of Chihuahuahua, Mexico.
 [http://proyectojcas.uacj.mx/clima/public/maps/google/estacion](http://proyectojcas.uacj.mx/clima/public/maps/google/estacion)
 
 # Links to Google Colab Notebooks  
-+ Data consolidation and Curation  
-+ ETo Regression and ML Models, Data statistics and SHAP analysis - ETo LR-XGB-SVM-RF-MLP and SHAP Analysis.ipynb   
-+ CovLSTM model and evaluation - ETo ConvLSTM Analysis.ipynb   
-+ GRU and LSTM models and evaluation - Eto GRU-LSTM Analysis.ipynb   
++ Data consolidation and Curation: [https://purl.org/swim/etcode4](https://purl.org/swim/etcode4)      
++ ETo Regression and ML Models, Data statistics and SHAP analysis: [https://purl.org/swim/etcode1](https://purl.org/swim/etcode1)      
++ CovLSTM model and evaluation: [https://purl.org/swim/etcode3](https://purl.org/swim/etcode3)         
++ GRU and LSTM models and evaluation - [https://purl.org/swim/etcode2](https://purl.org/swim/etcode2)      
 
 # How to Run
 
