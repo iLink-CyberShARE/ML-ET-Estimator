@@ -44,9 +44,10 @@ This work was supported by Microsoft (UTEP team). This work used publicly availa
 This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LICENSE) and uses third party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.md](./LICENSE-3RD-PARTY.md)).
 
 ## Citation  
-Towards Estimating Water Consumption in Semi-Arid Urban Landscaping: A Data-Driven and Machine Learning Approach (In Press)   
+Towards Estimating Water Consumption in Semi-Arid Urban Landscaping: A Data-Driven and Machine Learning Approach  
 Damian Gallegos Espinoza, Luis A Garnica Chavira, Natalia Villanueva-Rosales, Juan Manuel Rodríguez Gaeta and Carmen Julia Navarro Gómez    
 23rd Mexican International Conference on Artificial Intelligence, INAOE, Tonantzintla, Puebla, México, October 21st - 25th, 2024 
 
-First published in [Volumee page number, year] by Springer Nature”. - Pending Publication
+First published in MICAI 2024, LNAI 15246, pp. 1–13, 2024 by Springer Nature.
+[https://doi.org/10.1007/978-3-031-75540-8_1](https://doi.org/10.1007/978-3-031-75540-8_1) 
 
